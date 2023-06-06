@@ -5,7 +5,8 @@ To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: Import numpy into the editor
 ### Step 2: Input the co-ordinates to calculate the distance between them.
-### Step 3: Substitute the values in the distance formula ![image](https://github.com/divyakumars/DISTANCE-BETWEEN-TWO-POINTS/assets/119393621/5562bf0c-9455-474d-997d-6150bca05be1)
+### Step 3: Substitute the values in the distance formula
+![image](https://github.com/divyakumars/DISTANCE-BETWEEN-TWO-POINTS/assets/119393621/5562bf0c-9455-474d-997d-6150bca05be1)
 
 ### Step 4:Print the solution.
 ### Step 5:End the program. 
